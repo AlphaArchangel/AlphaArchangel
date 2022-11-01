@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <hr>
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AlphaArchangel&theme=dark&hide_border=false&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00" />
-<h>
+<hr>
 [![@alphaarchangel's Holopin board](https://holopin.me/alphaarchangel)](https://holopin.io/@alphaarchangel)
